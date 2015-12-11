@@ -1,2 +1,2 @@
 # mqtt-golang
-MQTT推送服务器，使用golang语言开发
+MQTT推送服务器，使用golang语言开发.支持集群
